@@ -5,7 +5,7 @@
 
 ### Usage:
 # Download this file:
-#   curl -O /sub-clean.sh && chmod +x sub-clean.sh
+#   curl -O https://github.com/18rrs/Clean-Subtitle/blob/main/clean_subtitle.sh && chmod +x sub-clean.sh
 # Run the script across a media library:
 #   find /path/to/library -name '*.srt' -exec /path/to/sub-clean.sh "{}" \;
 # Use in Bazarr:
